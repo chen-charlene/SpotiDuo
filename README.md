@@ -1,4 +1,4 @@
-# term-project-mmateoss-Awang299-azchen-hchen187-
+# SpotiDuo Language Learning Platform
 
 # Project Details
 
